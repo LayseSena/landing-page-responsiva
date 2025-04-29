@@ -17,3 +17,7 @@ Este projeto tem como objetivo fornecer um ambiente onde usuários possam:
 - **JavaScript**
 - *(Opcional)* Backend com Node.js / Express ou outra tecnologia
 - *(Opcional)* Banco de dados: MongoDB / Firebase / MySQL
+
+## Feito por
+ - Arthur Galvão dos Santos    RA: 2597469
+ - Layse Sena Baptista         RA: 2527799
