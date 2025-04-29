@@ -17,9 +17,3 @@ Este projeto tem como objetivo fornecer um ambiente onde usuários possam:
 - **JavaScript**
 - *(Opcional)* Backend com Node.js / Express ou outra tecnologia
 - *(Opcional)* Banco de dados: MongoDB / Firebase / MySQL
-
-## 🚀 Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repo.git](https://laysesena.github.io/landing-page-responsiva/)
