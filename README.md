@@ -22,4 +22,4 @@ Este projeto tem como objetivo fornecer um ambiente onde usuários possam:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone [https://github.com/seu-usuario/nome-do-repo.git](https://laysesena.github.io/landing-page-responsiva/)
